@@ -2361,7 +2361,8 @@ address {
       background: transparent; } }
 
 .page .text-white {
-  color: #fff; }
+  color: #fff;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8); }
 
 .page a.text-white:hover,
 .page a.text-white:focus {
@@ -2549,7 +2550,8 @@ address {
     outline: none; }
   .btn:active, .btn.active {
     -webkit-box-shadow: none;
-    box-shadow: none; }
+    box-shadow: none;
+     }
 
 .btn-default {
   color: #222;
@@ -2582,7 +2584,8 @@ address {
 .btn-primary {
   color: #fff;
   background-color: #ff9f1c;
-  border-color: #ff9f1c; }
+  border-color: #ff9f1c; 
+}
   .btn-primary:focus, .btn-primary.focus, .btn-primary:hover, .btn-primary:active, .btn-primary.active,
   .open > .btn-primary.dropdown-toggle {
     color: #fff;
@@ -13219,7 +13222,8 @@ html .page .offset-top-530 {
   color: #222; }
 
 .context-dark, .context-dark a, .context-dark h1, .context-dark .h1, .context-dark h2, .context-dark .h2, .context-dark h3, .context-dark .h3, .context-dark h4, .context-dark .h4, .context-dark h5, .context-dark .h5, .context-dark h6, .context-dark .h6 {
-  color: #fff; }
+  color: #fff;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8); }
 
 .context-dark .list-inline-marked li:after {
   background: #fff; }
@@ -17894,8 +17898,8 @@ html:not(.lt-ie10) .not-animated {
     .rd-navbar-static.rd-navbar--is-stuck .rd-navbar-inner, .rd-navbar-static.rd-navbar--is-clone .rd-navbar-inner,
     .rd-navbar-fullwidth.rd-navbar--is-stuck .rd-navbar-inner,
     .rd-navbar-fullwidth.rd-navbar--is-clone .rd-navbar-inner {
-      padding-top: 10px;
-      padding-bottom: 15px; }
+      padding-top: 5px;
+      padding-bottom: 5px; }
   .rd-navbar-static .rd-navbar-dropdown,
   .rd-navbar-static .rd-navbar-megamenu,
   .rd-navbar-fullwidth .rd-navbar-dropdown,
