@@ -13377,7 +13377,7 @@ html .page .offset-top-530 {
 .box-offer {
   display: inline-block;
   border-radius: 4px;
-  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.3); }
   .box-offer img {
     border-top-left-radius: 4px;
     border-top-right-radius: 4px; }
@@ -13402,7 +13402,7 @@ html .page .offset-top-530 {
     .box-offer {
       transition: .3s all ease; }
       .box-offer:hover {
-        box-shadow: 0 5px 23px 0 rgba(0, 0, 0, 0.1); } }
+        box-shadow: 0 5px 23px 0 rgba(0, 0, 0, 0.6); } }
 
 .box-offer-xs img {
   border-top-left-radius: 4px;
@@ -13822,7 +13822,7 @@ html .page .offset-top-530 {
 .post-box {
   display: inline-block;
   border-radius: 4px;
-  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.3); }
   .post-box .post-box-img-wrap img {
     width: 100%;
     border-top-left-radius: 4px;
@@ -13838,7 +13838,7 @@ html .page .offset-top-530 {
     .post-box, .post-box .post-box-title a {
       transition: .3s all ease; }
     .post-box:hover {
-      box-shadow: 0 5px 23px 0 rgba(0, 0, 0, 0.1); }
+      box-shadow: 0 5px 23px 0 rgba(0, 0, 0, 0.7); }
     .post-box .post-box-title a:hover {
       color: #ff9f1c; } }
 
